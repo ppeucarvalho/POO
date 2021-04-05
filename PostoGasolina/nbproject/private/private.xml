@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/modelo/Dono.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/controle/ClienteControlador.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/modelo/PagamentoPorCartao.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/modelo/Servico.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/dados/ClienteDAO.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/apresentacao/SistemaPosto.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/modelo/Pagamento.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/modelo/Estacionamento.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/modelo/PagamentoAVista.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/modelo/Cliente.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/modelo/Combustivel.java</file>
+            <file>file:/home/omega/NetBeansProjects/PostoGasolina/src/br/edu/ifnmg/posto/modelo/Lavagem.java</file>
+        </group>
+    </open-files>
+</project-private>
